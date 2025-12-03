@@ -10,7 +10,7 @@
 ## NOW START CLAUDE CODE IN OLD USING POWERSHELL WITH CMD (ccr code or claud )
 # STEP 6.
 ## NOW CREATE A SPEC DRIVEN WAY STEP FOR CREATE BOOK LIKE /sp.constitution (ready this file by chatgpt by giving them better prompt like
-:write constitution as per my project requirments.
+write constitution as per my project requirments.
 i am using speckitplus for writing book project 1 
 
 1. AI/Spec-Driven Book Creation: Write a book using Docusaurus and deploy it to GitHub Pages. You will use Spec-Kit Plus ( https://github.com/panaversity/spec-kit-plus/ ) and Claude Code ( https://www.claude.com/product/claude-code ) to write the book. 
