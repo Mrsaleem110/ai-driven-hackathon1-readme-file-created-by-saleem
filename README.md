@@ -43,7 +43,7 @@ Success criteria:
 - Passes fact-checking review
 remember make it copy paste so i can easliy copy it
  # STEP 7.
- ## CHATGPT WILL CREATE PROMPT LIKE THIS COPY IT AND PASTE IT.
+ ## CHATGPT WILL CREATE PROMPT LIKE THIS COPY IT AND PASTE IT ON CLAUDE CODE.
  ```
  /sp.constitution
 
