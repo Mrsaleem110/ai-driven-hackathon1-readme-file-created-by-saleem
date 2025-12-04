@@ -1022,3 +1022,8 @@ End of File.
 
 ```
 
+ # STEP 12.
+ ## run simple cmd on claude code(/sp.task).
+ 
+ # STEP 13.
+ ## run simple cmd on claude code(/sp.implement).
