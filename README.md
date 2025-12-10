@@ -1027,3 +1027,5 @@ End of File.
  
  # STEP 13.
  ## run simple cmd on claude code(/sp.implement).
+  # STEP 14.
+  ## now deploy your project on GitHub through cli cmd.
